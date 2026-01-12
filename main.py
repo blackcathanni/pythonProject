@@ -1,2 +1,4 @@
-print("Hello Mom!")
-# THIS BETTER FREAKING WORK MAN
+firstName = "Minji"
+lastName = "Kim"
+
+print("My name is " + firstName + " " + lastName)
